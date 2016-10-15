@@ -6,9 +6,9 @@ https://davidrela.github.io
 
 ## Notes
 - The differences between this repository and "davidrela.github.io" are:
-* Full Resolution Images.
-* Expanded files (html, css, js).
-* Include comments and explanations of the code within the files.
+> Full Resolution Images.
+> Expanded files (html, css, js).
+> Include comments and explanations of the code within the files.
 
 ## License
 All rights reserved. David Rela. 2016.
