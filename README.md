@@ -1,4 +1,4 @@
-# Base Files fo David Rela's Web Portfolio
+# Base Files for David Rela's Web Portfolio
 Base files with comments, etc for my personal porfolio on the web. Here, you can find Info about me and about my work as Graphic Designer.
 
 ## Live Page
